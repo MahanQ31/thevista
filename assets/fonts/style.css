@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'Vazirmatn-Black';
+   font-display: swap;
+   src: url('Vazirmatn-Black/font.woff2');
+}
+@font-face {
+   font-family: 'Vazirmatn-Bold';
+   font-display: swap;
+   src: url('Vazirmatn-Bold/font.woff2');
+}
+@font-face {
+   font-family: 'Vazirmatn-Regular';
+   font-display: swap;
+   src: url('Vazirmatn-Regular/font.woff2');
+}
+@font-face {
+   font-family: 'Vazirmatn-Light';
+   font-display: swap;
+   src: url('Vazirmatn-Light/font.woff2');
+}
