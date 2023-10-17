@@ -799,6 +799,9 @@ a {
     margin-bottom: 1rem;
   }
 }
+.item-wrapper{
+  align-items: center;
+}
 .cid-tMVAMGLtFu .item-wrapper {
   background: #ffffff;
   padding: 2.25rem;
@@ -857,9 +860,8 @@ a {
 }
 .cid-tMVsxoa8IX img,
 .cid-tMVsxoa8IX .item-img {
-  width: 100%;
-  height: 100%;
-  height: 400px;
+  width: 187px;
+  height: 187px;
   object-fit: cover;
 }
 .cid-tMVsxoa8IX .item:focus,
